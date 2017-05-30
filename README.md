@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-<b><center>HACKER JUNCTION</center>
+
 <br>
 <marquee><img src = "http://code.emc.com/images/code_icon.png"></marquee>
 <b><br>Hello world!<br>My name is Amulya Gaur. I am pursuing B.Tech CSE from MNNIT Allahabad. This website is devoted to competetive programming problem discussion. I hope you will definitely find it useful.<br></b>
