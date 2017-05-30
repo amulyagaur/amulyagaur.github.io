@@ -1,5 +1,5 @@
 <html>
-<head>
+<head></head>
 <body>
 <b><center>HACKER JUNCTION</center>
 <br>
@@ -25,6 +25,3 @@ Mobile No.: +91-7535965304
 <br>
 
 
-
-
-</html>
