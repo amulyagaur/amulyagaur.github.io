@@ -16,7 +16,8 @@
 <a href = "https://www.hackerearth.com/@GodSpeed">HACKEREARTH</a>
 </body>
 <br><br>
-Keep Coding! Have Fun!
+Keep Coding! Have Fun!<br>
+<br>
 Contact:<br>
 E-mail : amulyagaur111@gmail.com<br>
 Mobile No.: +91-7535965304
