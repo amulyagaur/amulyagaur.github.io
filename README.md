@@ -17,6 +17,9 @@
 </body>
 <br><br>
 Keep Coding! Have Fun!
+Contact:<br>
+E-mail : amulyagaur111@gmail.com<br>
+Mobile No.: +91-7535965304
 <br>
 <marquee><img src = "http://code.emc.com/images/code_icon.png"></marquee>
 </head>
