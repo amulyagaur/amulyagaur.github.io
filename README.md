@@ -17,6 +17,8 @@
 </body>
 <br><br>
 Keep Coding! Have Fun!
+
 <br>
+<marquee><img src = "http://code.emc.com/images/code_icon.png"></marquee>
 </head>
 </html>
