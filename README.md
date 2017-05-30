@@ -1,8 +1,9 @@
 <html>
 <head>
 
-<body background = "http://3.bp.blogspot.com/-CUAFtSo8bNM/VWnS7gzLYsI/AAAAAAAABiw/JVM4LymkKns/s1600/18.-Blog-Photography-Tips-Tricks-Backgrounds-Props.png">
-<b><center>HACKER JUNCTION</center><br></b>
+
+<b><center>HACKER JUNCTION</center><br>
+<marquee><img src = "http://code.emc.com/images/code_icon.png"></marquee>
 <b><br>Hello world!<br>My name is Amulya Gaur. I am pursuing B.Tech CSE from MNNIT Allahabad. This website is devoted to competetive programming problem discussion. I hope you will definitely find it useful.<br></b>
 <center>Below are the links to my profiles on various OJs.</center><br><br>
 <a href = "http://codeforces.com/profile/amulyagaur111">CODEFORCES</a>
@@ -22,6 +23,6 @@ Contact:<br>
 E-mail : amulyagaur111@gmail.com<br>
 Mobile No.: +91-7535965304
 <br>
-<marquee><img src = "http://code.emc.com/images/code_icon.png"></marquee>
+
 </head>
 </html>
